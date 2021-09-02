@@ -1,0 +1,7 @@
+{
+  "name": "student_report",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

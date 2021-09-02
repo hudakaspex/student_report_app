@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "student_report",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
